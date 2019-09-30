@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/shoks/anaconda3/envs/dplrn1/bin/python"
+}
